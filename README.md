@@ -28,6 +28,15 @@ Gold Layer → Aggregated analytics datasets powering executive dashboards
 - Git/GitHub
 
 ---
+## Workflow Orchestration
+
+This project uses Apache Airflow concepts to orchestrate modular ETL workflows for the TRS Pension Benefits Analytics Platform.
+
+### Airflow DAG
+- trs_pension_pipeline
+- Automated Bronze → Silver → Gold ETL execution
+- DAG-based workflow scheduling and monitoring
+- Modular pipeline execution using BashOperator
 
 ## Features
 
