@@ -1,0 +1,7 @@
+member_id,first_name,last_name,age,district,employment_status,hire_date,retirement_date,salary,years_of_service
+1001,James,Walker,61,Austin ISD,Retired,1990-08-15,2024-01-01,95000,34
+1002,Sarah,Lee,61,Dallas ISD,Retired,2008-05-10,2026-03-01,72000,25
+1003,Michael,Johnson,39,Houston ISD,Active,2015-09-01,,68000,10
+1004,Amanda,Brown,58,San Antonio ISD,Retired,1995-07-20,2023-06-01,88000,28
+1005,David,Wilson,52,Fort Worth ISD,Active,2002-03-12,,81000,23
+1006,Jennifer,Taylor,63,El Paso ISD,Retired,1988-11-05,2022-09-01,97000,36

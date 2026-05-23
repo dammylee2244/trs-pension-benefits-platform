@@ -1,0 +1,6 @@
+claim_id,member_id,provider,claim_amount,claim_status,service_date
+3001,1001,Baylor Scott,1200,Approved,2026-01-15
+3002,1002,Ascension,450,Approved,2026-01-20
+3003,1003,HCA Texas,780,Denied,2026-01-22
+3004,1004,Baylor Scott,2100,Approved,2026-01-25
+3005,1006,Houston Methodist,3200,Approved,2026-01-28

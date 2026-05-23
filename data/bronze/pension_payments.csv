@@ -1,0 +1,5 @@
+payment_id,member_id,monthly_pension,payment_date,benefit_type
+9001,1001,5200,2026-01-01,Retirement
+9002,1004,4800,2026-01-01,Retirement
+9003,1006,5600,2026-01-01,Retirement
+9004,1002,5100,2026-03-01,Retirement
