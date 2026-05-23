@@ -39,6 +39,9 @@ Gold Layer → Aggregated analytics datasets powering executive dashboards
 - Slowly changing dimension simulation
 - Gold-layer KPI aggregation
 - Logging and monitoring
+- Apache Airflow orchestration for automated ETL workflow scheduling
+- Modular DAG-based pipeline execution
+- Bronze, Silver, and Gold medallion architecture implementation
 
 ---
 
