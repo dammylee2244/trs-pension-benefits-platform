@@ -67,12 +67,13 @@ Gold Layer → Aggregated analytics datasets powering executive dashboards
 
 ## Future Enhancements
 
-- Airflow orchestration
+- Airflow orchestration concepts for modular ETL scheduling and workflow automation
 - Docker containerization
 - CI/CD with GitHub Actions
 - Delta MERGE operations
 - Real-time streaming ingestion
 - Snowflake integration
+- 
 
 ---
 
